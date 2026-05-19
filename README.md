@@ -44,7 +44,7 @@ Execute the program using runserver command.
 <table border="2" cellpadding="10" align="center" width="90%" bgcolor="black">
 
 <caption>
-<b>SLOT TIME TABLE - SHARAN KUMAR G (212224230260) </b>
+<b>SLOT TIME TABLE - karthik krishna (212223240067) </b>
 </caption>
 
 <tr bgcolor="yellow">
