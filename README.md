@@ -146,7 +146,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](timetable.png)
+<img width="1048" height="547" alt="{C1E1438E-F7A0-47B2-BA91-629620F9A118}" src="https://github.com/user-attachments/assets/0efcd8c0-ec6b-4513-b09b-b7f10f743eba" />
 
 
 ## RESULT
