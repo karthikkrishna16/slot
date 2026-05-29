@@ -146,7 +146,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-<img width="1048" height="547" alt="{C1E1438E-F7A0-47B2-BA91-629620F9A118}" src="https://github.com/user-attachments/assets/0efcd8c0-ec6b-4513-b09b-b7f10f743eba" />
+<img width="1171" height="642" alt="image" src="https://github.com/user-attachments/assets/20daa727-7e08-474c-aa8d-94ed36725208" />
 
 
 ## RESULT
